@@ -4,12 +4,12 @@ Clickbus is a demo project for Spring Boot that demonstrates the creation and ma
 
 ## Table of Contents 📑
 
-- [Getting Started](#getting-started)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Running the Application](#running-the-application)
-- [API Endpoints](#api-endpoints)
-- [Built With](#built-with)
+- [Getting Started](#getting-started-)
+- [Prerequisites](#prerequisites-)
+- [Installation](#installation-)
+- [Running the Application](#running-the-application-)
+- [API Endpoints](#api-endpoints-)
+- [Built With](#built-with-)
 
 ## Getting Started 🚀
 
